@@ -1,0 +1,2 @@
+- Implemented Logistic Regression and advanced preprocessing techniques on a real-world heart disease dataset, optimizing analysis by converting attributes and using gender-based data splits.
+- Achieved an accuracy of 85.13% in predicting heart disease using a Multilayer Perceptron (MLP) model, demonstrating the effectiveness of machine learning in medical diagnostics.
